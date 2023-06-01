@@ -1,2 +1,1 @@
-# Amongus
-temp web
+# PC_shop.githut.io
